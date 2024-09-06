@@ -13,7 +13,7 @@ const ResponsiveImage: React.FC = () => {
           fontStyle: "bold",
         }}
       >
-        Ackern 24&apo
+        {"Ackern 24'"}
       </div>
 
       <img
